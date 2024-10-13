@@ -1,0 +1,184 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+ 
+@import url('https://fonts.googleapis.com/css?family=Lato');
+@import url('https://fonts.googleapis.com/css?family=Parisienne|Vollkorn+SC:300,400,700|Vollkorn:300,400,400i,700');
+body {
+	padding-top: 54px;
+	background-image:url(../images/canvas.texture-03.jpg);
+	background-repeat:repeat;
+	font-family: Lato, sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 300;
+	letter-spacing: 2px;
+	line-height: 36px;
+	text-transform: none;
+	color: #373E58;
+}
+
+/*Typography*/
+h1 {
+font-family: 'Vollkorn', serif;
+font-size: 3vw;
+font-style: normal;
+font-weight: 300;
+letter-spacing: 6px;
+text-transform: uppercase;
+}
+
+h2 {
+font-family: 'Vollkorn', serif;
+font-size: 2vw;
+font-style: normal;
+font-weight: 300;
+letter-spacing: 2px;
+text-transform: uppercase;
+}
+
+.breadcrumb-item, .breadcrumb-item.active {
+font-family:"Vollkorn SC";
+}
+
+.breadcrumb {
+    background-color: rgba(255, 254, 252, 0.5);
+}
+
+#lead-title {
+font-family:"Vollkorn SC";
+text-transform: none;
+}
+
+#footer-text, #footer-text a {
+font-size: 11px;
+font-style: normal;
+font-weight: 300;
+letter-spacing: inherit;
+line-height: 16px;
+color:#FFFFFF;
+}
+
+.navbar-brand {
+font-family: 'Vollkorn SC', serif;
+font-weight:700;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+font-family: 'Vollkorn SC', serif;
+font-weight:400;
+}
+
+#header-logo {
+	max-height:32px;
+	padding-right:10px;
+}
+
+#footer-logo {
+	max-height:62px;
+}
+
+ @media (min-width: 992px) {
+ body {
+ padding-top: 56px;
+}
+}
+.carousel-item {
+	height: 65vh;
+	min-height: 300px;
+	background: no-repeat center center scroll;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.carousel-caption {
+font-family: 'Vollkorn', serif;
+text-shadow: 0 0 1px #888;
+}
+
+.carousel-indicators {
+	visibility:hidden;
+}
+
+.portfolio-item {
+	margin-bottom: 30px;
+}
+
+#signature {
+margin-top:48px;
+font-family:Parisienne;
+text-align:right;
+font-size:36px;
+transform: rotate(-1.5deg);
+padding-left:5%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/*Colours*/
+.btn-secondary {
+    color: #fff;
+    background-color: #C8B69A;
+    border-color: #630F1D;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #630F1D;
+    border-color: #C8B69A;
+}
+
+a {
+    color: #336893;
+}
+
+a:hover {
+    color: #630F1D;
+}
+
+
+@media only screen and (max-width: 1000px)  
+{
+#lead-title {
+font-size: 24px;
+line-height:24px;
+letter-spacing: 1px;
+}	
+}
+
+.kidsmenu {
+font-family: 'Smokum', cursive;
+    font-size: 2em;
+    font-weight: 900;
+	line-height: 1.1em;
+	text-align: center;
+}
+
+.kidsmenu h2 {
+font-family: 'Smokum', cursive;
+    font-size: 1.5em;
+}
+
+.kidsmenu img {
+max-width: 80%;
+}
+
+.kidsmenu ul {
+list-style: none;
+}
+
+.kidsmenu li {
+	margin-top:1em;
+}
+
+.kidsmenu p {
+    font-size: 0.8em;
+}
+
+.kidsmenu .scarlett {
+font-family: 'Old Comedy';
+}
