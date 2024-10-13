@@ -15,7 +15,7 @@
 		</div></div> <!--extra /div is here to balance out FHRS widget-->
 
 		<div class="col-lg-4 mb-4" >
-			<p class="m-0 text-center text-white">This page is copyright &copy; The Blacksmiths, Isle of Wight <?php echo date("Y"); ?></p>
+			<p class="m-0 text-center text-white">This page is copyright &copy; The Blacksmiths <?php echo date("Y"); ?></p>
 		</div>        
       </div><!--end of row-->
     
