@@ -218,7 +218,7 @@
               <p>All served with roast and new potatoes, fresh vegetables, a giant Yorkshire pudding and plenty of gravy. Gluten
               free roast available. Vegetarian/vegan on request: mushroom, parsnip, red onion and baby spinach Wellington.</p>
 
-              <p>All priced at Large £16.50 Small £11.50. Or a Trio (A slice of each) £18.50 large, £13 small.</p>
+              <p>All priced at Large £16.50 Small £12.00. Or a Trio (A slice of each) £18.50 large, £15.50 small.</p>
             </div>
           </div>
         </div>
