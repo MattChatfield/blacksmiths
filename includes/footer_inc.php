@@ -15,7 +15,7 @@
 		</div></div> <!--extra /div is here to balance out FHRS widget-->
 
 		<div class="col-lg-4 mb-4" >
-			<p class="m-0 text-center text-white">This page is copyright &copy; The Blacksmiths <?php echo date("Y"); ?></p>
+			<p class="m-0 text-center text-white">This page is copyright &copy; The Blacksmiths, Isle of Wight <?php echo date("Y"); ?></p>
 		</div>        
       </div><!--end of row-->
     
@@ -44,7 +44,7 @@
   "logo": "https://blacksmithsiow.co.uk/images/anvil.png",
   "image": "https://blacksmithsiow.co.uk/images/front-slideshow/Blacksmiths-front-slideshow-6.jpg",
   "servescuisine": "English, Pub",
-  "pricerange": "££",
+  "pricerange": "Â£Â£",
   "acceptsReservations": "Yes",
   "hasMenu": "https://blacksmithsiow.co.uk/menus.php",
   "description": "The Blacksmiths is a lively and popular Isle of Wight pub and restaurant, with great food and drink and spectacular views across the Solent.",
