@@ -87,6 +87,7 @@
 					<li>Pan Seared Scallops, Roasted Butternut Squash Puree, Crispy Chorizo <span class="float-right">£12.50</span></li>
 					<li>Breaded Camembert, Cranberry Chutney, Rocket & Garlic Crostini <span class="float-right">£9</span></li>
 					<li>Spiced Heritage Carrots, Tahini Yogurt, Roasted Chickpeas, Flatbread Crackers <span class="float-right">£9</span></li>
+					<li>Goats Cheese Tart - Fig & Balsamic Red Onion £8.50</li>
 				</ul>
 				<h3>Bao Buns</h3>
 				<ul>
@@ -169,7 +170,7 @@
 						<strong>‘Shortcrust Pastry Newchurch Pie’</strong> - Filled with Slow Cooked Lamb Shank, Garlic, Spinach & Redcurrant Gravy, House Potatoes, Vegetables <span class="float-right">£17/£12</span>
 					</li>
 					<li>
-						<strong>Lemon Sole Meuni&egrave;re</strong> - Pan-Fried Lemon Sole, Baby Capers, Lemons, Parsley & Butter, New Potatoes, Fine Green Beans <span class="float-right">£23</span>
+						<strong>Mariners Pie</strong> - Cod, Smoked Haddock, Chalkstream Trout, Prawns, Cheesy Mash Potato, Herb Crust <span class="float-right">£18</span>
 					</li>
 					<li>
 						<strong>Roast Pork Belly</strong> - Pork Shoulder Bon Bon, Poached Pear, Smoked Bacon Mash, Jus & Vegetables <span class="float-right">£17.50/£13</span>
@@ -316,7 +317,7 @@
 						<strong>8oz Beef Burger</strong> - Crispy Bacon, Cheddar, Garlic Aioli, Relish <span class="float-right">£16.50</span>
 					</li>
 					<li>
-						<strong>Cajun Battered Cod Burger</strong> - Homemade Tartar Sauce, Baby Gem Lettuce <span class="float-right">£17.50</span>
+						<strong>Filthy Animal Burger</strong> - 8oz Beef Burger, Breaded Camembert, Hoisin Duck, Sweet Chilli Jam, Marmite Mayo, Pig in Blanket, Lettuce, Tomato<span class="float-right">£19</span>
 					</li>
 					<li>
 						<strong>Beetroot & Chickpea Burger</strong> - Grilled Halloumi, Sriracha Mayo <span class="float-right">£16.50</span>
